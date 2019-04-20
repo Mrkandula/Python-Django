@@ -1,0 +1,16 @@
+******************************************************************************************
+KIA_IMPORT_PRSNL  :begin >   31-AUG-2018 17:22:57
+
+KIA-E-0024:    The value for this personnel entry must be active and effective.
+Table name(s) - PRSNL
+Field value(s) - PERSON_ID = 0
+Row identifier(s) - PERSON_ID = 0; EXTERNAL_ID = AARORO
+Additional Comments - Use the HNAUser tool to make this personnel entry active and effective before trying to import.
+
+KIA-E-0024:    The value for this personnel entry must be active and effective.
+Table name(s) - PRSNL
+Field value(s) - PERSON_ID = 0
+Row identifier(s) - PERSON_ID = 0; EXTERNAL_ID = ABASSA
+Additional Comments - Use the HNAUser tool to make this personnel entry active and effective before trying to import.
+
+End   : WARNING  31-AUG-2018 17:23:00
